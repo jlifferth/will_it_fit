@@ -1,6 +1,6 @@
 # will_it_fit?
 
-## a program to automatically place 3-dimensional objects inside of a 3-dimensional space
+## A program to automatically place 3-dimensional objects inside of a 3-dimensional space
 
 Current status: in progress
 
