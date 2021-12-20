@@ -9,4 +9,4 @@ Figures directory includes examples of objects plotted manually
 
 "storage_math_#.ipynb" files describe algorithm for searching and updating search space as objects are placed
 
-![](Figures/Figure_3.png)
+<img src="Figures/Figure_3.png" width="300" height="300">
